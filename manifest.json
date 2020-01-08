@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Cognizant Intelligent Test Scripter",
     "description": "Spy,Heal and Recorder Extension for Cognizant Intelligent Test Scripter",
-    "version": "0.0.0.2",
+    "version": "0.0.0.9",
     "applications": {
         "gecko": {
             "id": "{e26b3297-afc1-4980-84a4-1c1a0af6b70b}"
